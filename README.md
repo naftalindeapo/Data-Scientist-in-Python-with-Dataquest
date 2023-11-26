@@ -6,7 +6,7 @@ This repository contains all data science projects I have completed toward certi
 - Jupyter Noteboook or
 - Visual Studio Code ipynb
 
-Troubleshooting
+# Troubleshooting
 If you encounter any issues or errors during the execution of these notebooks, try the following steps:
 - Make sure all the required dependencies are installed correctly.
 - Check the file paths and dataset availability.
